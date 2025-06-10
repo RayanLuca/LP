@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex06/01/01.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex06/01/01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex06/02/02.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex06/02/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex06/03/03.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex06/03/03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex06/04/04.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex06/04/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex06/05/05.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex06/05/05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/LP_LISTA6.iml" filepath="$PROJECT_DIR$/LP_LISTA6/LP_LISTA6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex01/ex01.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex01/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex02/ex02.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex02/ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex03/ex03.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex03/ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex04/ex04.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex04/ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex05/ex05.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex05/ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_LISTA6/ex06/ex06.iml" filepath="$PROJECT_DIR$/LP_LISTA6/ex06/ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/liata 6.iml" filepath="$PROJECT_DIR$/.idea/liata 6.iml" />
+    </modules>
+  </component>
+</project>
